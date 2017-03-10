@@ -29,6 +29,7 @@ public class WeiXinServlet extends HttpServlet {
         out.close();
         out = null;
     }
+
     /**
      * 处理微信服务器发来的消息
      */
